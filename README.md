@@ -1,3 +1,4 @@
+This is a simple project created using React to demonstrate react routing. This project includes posts from multiple users and each post has multiple comments.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
